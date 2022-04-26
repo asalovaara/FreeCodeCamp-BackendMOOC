@@ -1,6 +1,7 @@
 {
 	"author": "Antti Salovaara",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Coding challenges of FreeCodeCamp's backend MOOC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
